@@ -1,4 +1,4 @@
-# Splunk SIEM Security Monitoring & BOTSv3 Investigation Lab
+# Splunk SIEM Security Monitoring & BOTSv3 Investigation
 
 ## Project Overview
 
