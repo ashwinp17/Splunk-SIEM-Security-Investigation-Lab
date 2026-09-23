@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project focused on using **Splunk Enterprise as a SIEM** to analyze Windows security activity, firewall traffic, endpoint processes, Microsoft 365 activity, authentication events, and the **Boss of the SOC Version 3 (BOTSv3)** security dataset.
+This project focused on using **Splunk Enterprise as a SIEM** to analyze Windows security activity, firewall traffic, endpoint processes, Microsoft 365 activity, authentication events, and the **Boss of the SOC Version 3 (BOTSv3)** security dataset. 
+
+As a SOC Analyst, it is important to understand activity from the attackers point of view and search through the logs in the SIEM {in this case Splunk} to find out what they were doing and how we can remediate their suspicious activities. 
 
 The lab started with Windows event and firewall monitoring and then moved into a larger security investigation using BOTSv3.
 
