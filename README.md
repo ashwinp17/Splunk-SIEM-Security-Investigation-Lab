@@ -21,11 +21,10 @@ During the investigation, I used **SPL (Search Processing Language)** to search 
 - Windows Firewall Logs
 - Microsoft 365 / Azure AD Sign-In Logs
 - OneDrive and SharePoint Logs
-- Windows Process Events
 - Boss of the SOC Version 3 (BOTSv3)
 - Splunk Reports
 - Splunk Dashboards
-- Windows Event IDs
+- Windows Event IDs ***(name atleast 3)
 - Event correlation and timeline analysis
 
 ---
