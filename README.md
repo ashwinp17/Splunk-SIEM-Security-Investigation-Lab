@@ -24,7 +24,7 @@ During the investigation, I used **SPL (Search Processing Language)** to search 
 - Boss of the SOC Version 3 (BOTSv3)
 - Splunk Reports
 - Splunk Dashboards
-- Windows Event IDs ***(name atleast 3)
+- Windows Event IDs: 4688 (Process Creation), 4663 (Object Access), 4689 (Process Termination)
 - Event correlation and timeline analysis
 
 ---
